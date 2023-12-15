@@ -1,5 +1,4 @@
-import streamlit as st
-import json
+
 from streamlit_lottie import st_lottie
 st.header("Phinyo Sabai")
 
