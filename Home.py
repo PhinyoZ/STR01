@@ -1,11 +1,6 @@
+import streamlit as st
 import json
-import time
-import requests
-import streamlit as st
 from streamlit_lottie import st_lottie
-
-import streamlit as st
-
 st.header("Phinyo Sabai")
 
 st.title('การทดสอบเขียนเว็บด้วย Python')
