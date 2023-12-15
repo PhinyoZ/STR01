@@ -1,7 +1,7 @@
+import streamlit as st
 
-from streamlit_lottie import st_lottie
 st.header("Phinyo Sabai")
-
+st.balloons()
 st.title('การทดสอบเขียนเว็บด้วย Python')
 st.header('นายภิญโญ สบาย')
 st.subheader('สาขาเทคโนโลยีสารสนเทศ')
